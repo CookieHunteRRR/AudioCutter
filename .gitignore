@@ -1,0 +1,6 @@
+.vs
+AudioCutter/bin/
+AudioCutter/obj/
+AudioCutter/Properties/
+*.csproj
+*.csproj.user
